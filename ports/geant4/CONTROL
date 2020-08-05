@@ -1,0 +1,6 @@
+Source: geant4
+Version: v10.6.2
+Port-Version: 1
+Description: Geant4 toolkit for the simulation of the passage of particles through matter - NIM A 506 (2003) 250-303
+Homepage: https://geant4.web.cern.ch/
+Build-Depends: root
