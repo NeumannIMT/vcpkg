@@ -1,0 +1,6 @@
+Source: gate
+Version: v9
+Port-Version: 1
+Description: GATE is an advanced opensource software developed by the international OpenGATE collaboration and dedicated to numerical simulations in medical imaging and radiotherapy.
+Homepage: http://www.opengatecollaboration.org
+Build-Depends: geant4
