@@ -1,0 +1,7 @@
+Source: root
+Version: v6-22-00
+Port-Version: 1
+Description: The ROOT system provides a set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way.
+Homepage: https://root.cern/
+Build-Depends: openssl, fftw3, python3, glew (!osx), qt5-base, pcre, cfitsio, libpng, libjpeg-turbo
+
